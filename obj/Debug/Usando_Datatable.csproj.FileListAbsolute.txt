@@ -1,0 +1,24 @@
+c:\_cshp\Usando_Datatable\Usando_Datatable\bin\Debug\Usando_Datatable.exe.config
+c:\_cshp\Usando_Datatable\Usando_Datatable\bin\Debug\Usando_Datatable.exe
+c:\_cshp\Usando_Datatable\Usando_Datatable\bin\Debug\Usando_Datatable.pdb
+c:\_cshp\Usando_Datatable\Usando_Datatable\obj\Debug\Usando_Datatable.csprojResolveAssemblyReference.cache
+c:\_cshp\Usando_Datatable\Usando_Datatable\obj\Debug\Usando_Datatable.Form1.resources
+c:\_cshp\Usando_Datatable\Usando_Datatable\obj\Debug\Usando_Datatable.Properties.Resources.resources
+c:\_cshp\Usando_Datatable\Usando_Datatable\obj\Debug\Usando_Datatable.csproj.GenerateResource.Cache
+c:\_cshp\Usando_Datatable\Usando_Datatable\obj\Debug\Usando_Datatable.exe
+c:\_cshp\Usando_Datatable\Usando_Datatable\obj\Debug\Usando_Datatable.pdb
+C:\Users\diones.forteski\OneDrive - Sonda S.A\Documentos\Diones\API\Usando_Datatable\Usando_Datatable\Usando_Datatable\bin\Debug\Usando_Datatable.exe.config
+C:\Users\diones.forteski\OneDrive - Sonda S.A\Documentos\Diones\API\Usando_Datatable\Usando_Datatable\Usando_Datatable\bin\Debug\Usando_Datatable.exe
+C:\Users\diones.forteski\OneDrive - Sonda S.A\Documentos\Diones\API\Usando_Datatable\Usando_Datatable\Usando_Datatable\bin\Debug\Usando_Datatable.pdb
+C:\Users\diones.forteski\OneDrive - Sonda S.A\Documentos\Diones\API\Usando_Datatable\Usando_Datatable\Usando_Datatable\obj\Debug\Usando_Datatable.csprojAssemblyReference.cache
+C:\Users\diones.forteski\OneDrive - Sonda S.A\Documentos\Diones\API\Usando_Datatable\Usando_Datatable\Usando_Datatable\obj\Debug\Usando_Datatable.Form1.resources
+C:\Users\diones.forteski\OneDrive - Sonda S.A\Documentos\Diones\API\Usando_Datatable\Usando_Datatable\Usando_Datatable\obj\Debug\Usando_Datatable.Properties.Resources.resources
+C:\Users\diones.forteski\OneDrive - Sonda S.A\Documentos\Diones\API\Usando_Datatable\Usando_Datatable\Usando_Datatable\obj\Debug\Usando_Datatable.csproj.GenerateResource.cache
+C:\Users\diones.forteski\OneDrive - Sonda S.A\Documentos\Diones\API\Usando_Datatable\Usando_Datatable\Usando_Datatable\obj\Debug\Usando_Datatable.csproj.CoreCompileInputs.cache
+C:\Users\diones.forteski\OneDrive - Sonda S.A\Documentos\Diones\API\Usando_Datatable\Usando_Datatable\Usando_Datatable\obj\Debug\Usando_Datatable.exe
+C:\Users\diones.forteski\OneDrive - Sonda S.A\Documentos\Diones\API\Usando_Datatable\Usando_Datatable\Usando_Datatable\obj\Debug\Usando_Datatable.pdb
+C:\Users\diones.forteski\OneDrive - Sonda S.A\Documentos\Diones\API\Usando_Datatable\Usando_Datatable\Usando_Datatable\bin\Debug\Newtonsoft.Json.dll
+C:\Users\diones.forteski\OneDrive - Sonda S.A\Documentos\Diones\API\Usando_Datatable\Usando_Datatable\Usando_Datatable\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\diones.forteski\OneDrive - Sonda S.A\Documentos\Diones\API\Usando_Datatable\Usando_Datatable\Usando_Datatable\bin\Debug\Newtonsoft.Json.xml
+C:\Users\diones.forteski\OneDrive - Sonda S.A\Documentos\Diones\API\Usando_Datatable\Usando_Datatable\Usando_Datatable\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\diones.forteski\OneDrive - Sonda S.A\Documentos\Diones\API\Usando_Datatable\Usando_Datatable\Usando_Datatable\obj\Debug\Usando_Datatable.csproj.CopyComplete
